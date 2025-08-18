@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  max-width: 768px;
+  margin: auto;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1;
+}
+
+.theme-toggle {
+  padding-top: 1.5rem;
+}
+
+.neog-footer {
+  text-align: center;
+}
+
+/* Highlight 0 quantity in red */
+.quantity-zero {
+  color: red;
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.low-stock {
+  color: #e9a001;
+  font-weight: bold;
+}
+.out-of-stock {
+  color: #dd0505;
+  font-weight: bold;
+}
+.in-stock {
+  color: inherit;
+}

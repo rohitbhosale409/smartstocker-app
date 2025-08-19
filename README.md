@@ -28,13 +28,11 @@ This app is perfect for small businesses, retailers, or personal inventory track
 | HTML/CSS/JS     | Frontend layout and design |
 | Git & GitHub    | Version control        |
 
-> You can update this section based on your actual stack.
-
 ---
 
 ## 📸 Screenshots
 
-> Include screenshots or a short GIF/video demo here to showcase the UI and features.
+<img width="1721" height="921" alt="image" src="https://github.com/user-attachments/assets/fe2b3c2c-9ef6-4ace-b374-8297c7479515" />
 
 ---
 

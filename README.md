@@ -31,7 +31,6 @@ This app is perfect for small businesses, retailers, or personal inventory track
 ---
 
 ## 📸 Screenshots
-
 <img width="1721" height="921" alt="image" src="https://github.com/user-attachments/assets/fe2b3c2c-9ef6-4ace-b374-8297c7479515" />
 <img width="1429" height="827" alt="image" src="https://github.com/user-attachments/assets/5efb3da6-846d-4f42-afa4-6e550d16bb82" />
 <img width="1767" height="922" alt="image" src="https://github.com/user-attachments/assets/13041046-ef64-4bbe-95a5-c623de1c3888" />
